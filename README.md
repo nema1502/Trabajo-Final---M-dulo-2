@@ -2,8 +2,8 @@
 
 Este repositorio contiene el código fuente y la documentación de un Smart Contract de Subasta avanzado, desarrollado como parte del Trabajo Final del Módulo 2. El contrato ha sido desplegado en la red de pruebas **Sepolia** y su código fuente ha sido verificado en Etherscan.
 
--   **URL del Contrato en Sepolia:** `[PEGA AQUÍ LA URL DE TU CONTRATO VERIFICADO EN SEPOLIASCAN]`
--   **URL de este Repositorio:** `[PEGA AQUÍ LA URL DE TU REPOSITORIO DE GITHUB]`
+-   **URL del Contrato en Sepolia:** `
+-   **URL de este Repositorio:** `
 
 ## 📜 Descripción General
 
